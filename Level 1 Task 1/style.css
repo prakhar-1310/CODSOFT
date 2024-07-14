@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: flex;
+    background-color: blueviolet;
+    height:200px;
+    
+    
+}
+.name{
+    color: orange;
+    font-size: 150px;
+    font-weight: bold;
+    margin-left: 50px;
+    line-height: 200px;
+}
+.tag{
+    font-size: 80px;
+    color:chartreuse;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-weight: 300;
+}
+.head{
+    display: flex;
+    background-color: black;
+}
+.navi{
+    
+    margin-left: 150px;
+    font-size: 30px;
+    height: 80px;
+    line-height: 80px;
+    
+}
+.products1{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.p{
+    height: 380px;
+    width: 220px;
+    border:solid 3px black ;
+    background-color: burlywood;
+    margin-left: 90px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.foot{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    height: 40px;
+    line-height: 40px;
+}
+.last{
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.service{
+    font-size: 50px;
+    font-weight: 600;
+    height: 60px;
+    width: auto;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 90px;
+    color: black;
+    background-color: orange;
+    border-radius: 10px;
+}
